@@ -1,5 +1,5 @@
 # e-commerce-sales-dashboard
-power BI dashboard to analyze online sales across india
+Interactive Power BI dashboard to analyze ecommerce sales, profit, and customer trends across india.
 
 📊 Ecommerce Sales Dashboard (Power BI)
 
