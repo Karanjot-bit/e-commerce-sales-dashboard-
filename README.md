@@ -4,6 +4,7 @@ Interactive Power BI dashboard to analyze ecommerce sales, profit, and customer 
 📊 Ecommerce Sales Dashboard (Power BI)
 
 🧾 Project Summary
+
 Developed an interactive Ecommerce Sales Dashboard using Power BI to analyze sales performance, customer behavior, and product trends across India. The dashboard enables stakeholders to make data-driven decisions by providing actionable insights into revenue, profit, and demand patterns.
 🎯 Business Problem
 
